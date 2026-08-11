@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/GitHub-luan--paula-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
 </a>
 
+<a href="https://www.linkedin.com/in/luan-paula/">
+<img src="https://img.shields.io/badge/LinkedIn-Luan%20de%20Paula-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
+</a>
+
 <a href="mailto:luandp2008@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
 </a>
@@ -268,6 +272,10 @@ BUILD. LEARN. SHIP.
 
 <a href="https://github.com/luan-paula">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
+</a>
+
+<a href="https://www.linkedin.com/in/luan-paula/">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
 </a>
 
 <a href="mailto:luandp2008@gmail.com">
