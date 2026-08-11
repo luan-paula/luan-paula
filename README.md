@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00e5ff&height=190&section=header&text=LUAN%20DE%20PAULA&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=BACK-END%20DEVELOPER%20IN%20PROGRESS&descAlignY=57&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00e5ff&height=200&section=header&text=LUAN%20DE%20PAULA&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=BACK-END%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=INITIALIZING+LUAN.DEV...;SYSTEM+ONLINE+%E2%9C%93;INFORMATION+SYSTEMS+STUDENT;BACK-END+DEVELOPER+IN+PROGRESS;JAVA+%7C+SQL+%7C+GIT;BUILDING+THE+NEXT+VERSION+OF+MYSELF..." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=INITIALIZING+LUAN.DEV...;SYSTEM+ONLINE+%E2%9C%93;INFORMATION+SYSTEMS+%7C+UTFPR;BACK-END+DEVELOPER+IN+PROGRESS;JAVA+%7C+SQL+%7C+GIT+%7C+GITHUB;BUILDING+THE+NEXT+VERSION+OF+MYSELF..." alt="Typing Animation"/>
 
 <br><br>
 
@@ -28,11 +26,12 @@
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  STATUS       : ONLINE                                       │
-│  ROLE         : Information Systems Student                 │
-│  FOCUS        : Back-end Development                         │
-│  PRIMARY      : Java                                         │
+│  ROLE         : INFORMATION SYSTEMS STUDENT                 │
+│  UNIVERSITY   : UTFPR                                        │
+│  FOCUS        : BACK-END DEVELOPMENT                         │
+│  PRIMARY      : JAVA                                         │
 │  DATABASE     : SQL                                          │
-│  VERSION CTRL : Git / GitHub                                 │
+│  VERSION CTRL : GIT / GITHUB                                 │
 │                                                              │
 │  CURRENT MODE : LEARNING + BUILDING                          │
 │                                                              │
@@ -41,31 +40,29 @@
 
 ---
 
-# `02 // SOBRE MIM`
+# `02 // SOBRE.MIM`
 
 <div align="center">
 
-### **Olá, eu sou o Luan.**
+### **Construindo minha carreira em Back-end, uma etapa de cada vez.**
 
 </div>
 
-Sou estudante de **Sistemas de Informação na UTFPR** e estou construindo minha carreira em **desenvolvimento Back-end**.
+Sou estudante de **Sistemas de Informação na UTFPR** e estou direcionando minha formação para **desenvolvimento Back-end**.
 
-Atualmente, estou focado em construir uma base sólida em **programação, Java, orientação a objetos, SQL, Git e desenvolvimento de software**.
+Atualmente, estou construindo uma base sólida em **programação, Java, lógica, orientação a objetos, SQL e Git**, transformando o aprendizado em prática por meio de exercícios e, progressivamente, projetos próprios.
 
-Meu objetivo é transformar o conhecimento adquirido durante meus estudos em **projetos reais**, evoluindo progressivamente para o desenvolvimento de **APIs, sistemas Back-end e aplicações profissionais**.
+Meu objetivo é evoluir para o desenvolvimento de **APIs e aplicações Back-end**, utilizando boas práticas de engenharia de software e construindo um portfólio consistente ao longo da minha formação.
 
 ```text
-MISSION
+FOCUS
 ──────────────────────────────────────────────
-→ Construir fundamentos sólidos
-→ Praticar programação constantemente
-→ Criar meus primeiros projetos
-→ Evoluir em Java
-→ Aprender desenvolvimento de APIs
-→ Aprender Spring Boot
-→ Construir um portfólio consistente
-→ Conquistar minha primeira oportunidade em TI
+→ Learn the fundamentals
+→ Write better code
+→ Build real projects
+→ Understand how systems work
+→ Develop Back-end skills
+→ Create a professional portfolio
 ```
 
 ---
@@ -74,15 +71,15 @@ MISSION
 
 <div align="center">
 
-### Currently Learning
+### `CURRENT`
 
 <img src="https://skillicons.dev/icons?i=java,mysql,git,github&theme=dark" />
 
 <br><br>
 
-### Development Environment
+### `DEVELOPMENT ENVIRONMENT`
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,windows,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,windows&theme=dark" />
 
 </div>
 
@@ -95,8 +92,8 @@ MISSION
 │                  LEARNING PIPELINE                    │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
-│  [ACTIVE]   Java                                     │
 │  [ACTIVE]   Programming Logic                        │
+│  [ACTIVE]   Java                                     │
 │  [ACTIVE]   SQL                                      │
 │  [ACTIVE]   Git & GitHub                             │
 │                                                      │
@@ -104,7 +101,7 @@ MISSION
 │  [NEXT]     REST APIs                                │
 │  [NEXT]     Spring Boot                              │
 │  [NEXT]     PostgreSQL                               │
-│  [NEXT]     Testing                                  │
+│  [NEXT]     Automated Testing                        │
 │  [NEXT]     Docker                                   │
 │                                                      │
 └──────────────────────────────────────────────────────┘
@@ -115,70 +112,100 @@ MISSION
 # `05 // DEVELOPMENT.ROADMAP`
 
 ```text
-                    BACK-END PATH
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │ Programming Logic   │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │       JAVA          │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │       OOP           │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │        SQL          │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │     REST APIs       │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │    Spring Boot      │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │ PostgreSQL / Docker │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │   REAL PROJECTS     │
-              └─────────────────────┘
+                         BACK-END PATH
+                              │
+                              ▼
+                  ┌─────────────────────┐
+                  │ Programming Logic   │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │        JAVA         │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │        OOP          │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │        SQL          │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │     REST APIs       │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │    Spring Boot      │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │ PostgreSQL / Docker │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │   REAL PROJECTS     │
+                  └─────────────────────┘
 ```
 
 ---
 
-# `06 // CURRENT.MISSION`
+# `06 // LEARNING.LOG`
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                    LEARNING.LOG                     │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  2026.08                                            │
+│  └─ Profile initialized                             │
+│                                                     │
+│  NEXT                                                │
+│  └─ Strengthen Java fundamentals                    │
+│                                                     │
+│  NEXT                                                │
+│  └─ Practice Object-Oriented Programming             │
+│                                                     │
+│  NEXT                                                │
+│  └─ Build first Java project                        │
+│                                                     │
+│  NEXT                                                │
+│  └─ Connect Java + SQL                              │
+│                                                     │
+│  FUTURE                                              │
+│  └─ Build REST API with Spring Boot                 │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# `07 // CURRENT.MISSION`
 
 ```bash
 luan@dev:~$ ./mission.sh
 
-[✓] Start Information Systems
+[✓] Information Systems — UTFPR
 [✓] Choose Back-end as career direction
 [→] Build Java foundation
 [→] Strengthen programming logic
 [→] Improve SQL
 [→] Learn Git & GitHub
-[→] Learn Object-Oriented Programming
+[→] Master Object-Oriented Programming
 [ ] Build first Java project
 [ ] Build first database project
 [ ] Learn REST APIs
 [ ] Learn Spring Boot
 [ ] Build first Back-end API
 [ ] Build portfolio
-[ ] Get first opportunity in IT
+[ ] Prepare for first opportunity in IT
 
 luan@dev:~$ echo "BUILD. LEARN. SHIP."
 
@@ -187,7 +214,7 @@ BUILD. LEARN. SHIP.
 
 ---
 
-# `07 // GITHUB.ANALYTICS`
+# `08 // GITHUB.ANALYTICS`
 
 <div align="center">
 
@@ -215,7 +242,7 @@ BUILD. LEARN. SHIP.
 
 ---
 
-# `08 // GITHUB.TROPHIES`
+# `09 // GITHUB.TROPHIES`
 
 <div align="center">
 
@@ -225,17 +252,17 @@ BUILD. LEARN. SHIP.
 
 ---
 
-# `09 // CONTRIBUTION.MATRIX`
+# `10 // CONTRIBUTION.MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luan-paula/luan-paula/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/luan-paula/luan-paula/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# `10 // CONNECT`
+# `11 // CONNECT`
 
 <div align="center">
 
